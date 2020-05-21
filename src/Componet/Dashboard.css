@@ -1,0 +1,13 @@
+.MainDashborad{
+    width:100%;
+    max-width: 900px;
+    margin: auto;
+}
+
+table{
+    width: 100%;
+}
+
+header{
+    background: #009688;
+}
